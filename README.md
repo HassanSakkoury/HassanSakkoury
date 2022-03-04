@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @HassanSakkoury
+- 👀 I’m interested in AI & analysis  
+- 🌱 I’m currently learning AI
